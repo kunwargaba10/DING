@@ -1,2 +1,2 @@
 def main():
-    print("Ding Dong, who's there \nQuack Quack \nWho's There\n")
+    print("Ding Dong, who's there \nThe IRS \nOh Shit")
